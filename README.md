@@ -1,15 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Agust%C3%ADn%20APELLIDO&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Ingenier%C3%ADa%20Industrial%20%C2%B7%20Operaciones%20%C2%B7%20Datos&descSize=16&descAlignY=60" width="100%" alt="Agustín APELLIDO, Ingeniería Industrial, Operaciones, Datos">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Agust%C3%ADn%20Berta&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Ingenier%C3%ADa%20Industrial%20%C2%B7%20Operaciones%20%C2%B7%20Datos&descSize=16&descAlignY=60" width="100%" alt="Agustín APELLIDO, Ingeniería Industrial, Operaciones, Datos">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Supply%20Chain-2C5364?style=for-the-badge" alt="Supply Chain">
-  <img src="https://img.shields.io/badge/Producci%C3%B3n-2C5364?style=for-the-badge" alt="Producción">
-  <img src="https://img.shields.io/badge/Lean-2C5364?style=for-the-badge" alt="Lean">
-  <img src="https://img.shields.io/badge/Data-2C5364?style=for-the-badge" alt="Data">
-</p>
 
 ## 👤 Perfil
 
-Combino ingeniería industrial con datos y programación para resolver problemas de operaciones: qué producir, cuánto stock tener y cómo mejorar un proceso con números. Este perfil es mi portfolio de proyectos.
+Combino ingeniería industrial con datos y programación para mejorar la planificación, la producción y el abastecimiento. Este perfil es mi portfolio de proyectos.
 
 ## 🎯 Áreas de interés
 
